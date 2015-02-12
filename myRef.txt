@@ -4,3 +4,5 @@ other >> https://gun.io/blog/how-to-github-fork-branch-and-pull-request/
 
 just update file
 
+getting up and running with TMUX
+http://fideloper.com/mac-vim-tmux
