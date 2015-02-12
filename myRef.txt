@@ -2,3 +2,5 @@ delete > http://makandracards.com/makandra/621-git-delete-a-branch-local-or-remo
 create new branch > https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
 other >> https://gun.io/blog/how-to-github-fork-branch-and-pull-request/
 
+just update file
+
