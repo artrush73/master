@@ -8,3 +8,10 @@ getting up and running with TMUX
 http://fideloper.com/mac-vim-tmux
 MERGE BRANCHES
 http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+setting PATH
+
+echo >> export PATH=/path to directory:$PATH
+
+this should set the path to dir and can execute the scripts form anywhere in commandline.
+
