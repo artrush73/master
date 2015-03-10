@@ -8,3 +8,7 @@ getting up and running with TMUX
 http://fideloper.com/mac-vim-tmux
 MERGE BRANCHES
 http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+This is the first change to commit
+
+
